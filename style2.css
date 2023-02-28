@@ -2,24 +2,23 @@ body {
     font-family: sans-serif;
 }
 
-header {
-    background-color: #E467B3;
-    height: 100px;
-}
-
 header img {
-    height: 80px;
+    height: 85px;
     width: 110px;
-    margin: 10px;
-    float: left;
-    display: flex;
-    align-items: center;
+    margin: 5px;
     
 }
-
-header p {
-    padding-top: 40px;
+header{
+    background-color: #A069D6;
+    height: 100px;
+    padding: 10px;
 }
+
+header a {
+    font-size: 25px;
+    padding-left: 10px;
+}
+
 
 main h1 {
     text-align: center;
